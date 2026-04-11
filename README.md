@@ -1,222 +1,141 @@
-# CLS (Compact Layer System) 40% Keyboard
+# CLS (Compact Layer System) Keyboard
 
-### A system for anyone to type *with* their thoughts.
+### A keyboard system for typing with your thoughts.
 
 ![CLS Hybrid](assets/main.jpg)
 
 ## Introduction
 
-Typing is easy. Using the keyboard to turn the thoughts of your mind, directly into words or actions on a screen.
+The CLS is a keyboard system that uses Layers to make what is thought what is typed.
 
-But once in while, it isn't. Keys can be mistyped, out of reach, or even forgotten and need finding. And suddenly, instead of typing with your true intentions, you're met with small delays and interruptions.
+With regular typing, keys can be mistyped, out of reach, or even need finding. But with Layers, the moment you think they are there, they will be there. The keys are brought right to your fingertips, ready to be typed.
 
-If only you could type *with* your thoughts. If only the correct keys always appeared at your fingertips exactly when you thought of them.
-
-The CLS (Compact Layer System) keyboard is my attempt at such a solution. Instead of bringing your fingers to the keys, it brings the keys to your fingers, so you always have them exactly when you need them. Carefully designed to feel as simple as a standard keyboard, but with all the benefits of a 40% keyboard. A system for anyone to type with the flow of their thoughts!
-
-<!-- A keyboard is a tool for connection. It connects the thoughts of the mind with the actions of typing, for both to flow perfectly together.
-
-Yet, the standard keyboard is designed for disconnection. Its layout forces your fingers to search and reach for faraway keys, disrupting and delaying this flow.
-
-The CLS (Compact Layer System) is my attempt to redesign it for reconnection. Eliminating the search and reach, by now bringing the keys to your fingers exactly when you need them.  it still preserving the familiar typing feel. With the CLS, the keys are brought to your fingers, not the other way around. A keyboard designed for anyone to type with the flow of their thoughts. -->
+The CLS packs this into a compact layout you already know how to use!
 
 > [!IMPORTANT]
 > The CLS is an open-source project, all files will be released after launch. But if you're interested to purchase one now, join the **[Initial Interest Check](#support)**!
 
 ## Concept
 
-<table>
-    <tbody>
-        <tr>
-            <td width="90%">
-                <h3>No Reach, No Delay</h3>
-                <h4>Type Instantly</h4>
-                <p>
-                    <img src="assets/layer.gif">
-                </p>
-                <p>
-                    Layers instantly transform any key to type anything. Using your finger to reach a faraway key takes effort and time. Using a Layer brings it to you and takes nothing.
-                    <br><br>
-                    Need Number or Arrow keys? Activate a Layer using dedicated thumb-keys to get them exactly at your fingertips.
-                </p>
-            </td>
-            <td width="10%"></td>
-        </tr>
-    </tbody>
-</table>
+![](assets/learnt.gif)
 
-<table>
-    <tbody>
-        <tr>
-            <td width="10%"></td>
-            <td width="90%">
-                <h3 align=right>Full Control, Full Flow</h3>
-                <h4 align=right>Type Perfectly</h4>
-                <p align=right>
-                    <img src="assets/touchtype.png">
-                </p>
-                <p align=right>
-                    Exactly 8 columns for your 8 fingers. You'll never need to search for a key. Your fingers know exactly where to touch-type using muscle-memory.
-                    <br><br>
-                    Give your fingers the control for your mind to be free.
-                <p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+Even with Layers, every key is still where you expect them, positioned similarly to regular keyboards.
 
-<table>
-    <tbody>
-        <tr>
-            <td width="90%">
-                <h3>Learnt It, Use It</h3>
-                <h4>Type Familiarly</h4>
-                <p>
-                    <img src="assets/learnt.gif">
-                </p>
-                <p>
-                    You already know how to use it! Typing on the CLS feels like typing on a standard keyboard.
-                    <br><br>
-                    Just as you use 'Shift' to type 'A', you use a Layer to type '1'. All keys are mapped to similar positions of the standard keyboard.
-                </p>
-            </td>
-            <td width="10%"></td>
-        </tr>
-    </tbody>
-</table>
+All commonly used keys (including `'"`) are physically available, while the rest are on virtual Layers. Hold the dedicated thumb keys to activate the Layers when you need to type them.
 
 ## Features
 
-<table>
-    <tbody>
-        <tr>
-            <td width="10%"></td>
-            <td width="90%">
-                <h3 align=right>Ultra Compact</h3>
-                <p align=right>
-                    <img src="assets/compact.jpg">
-                </p>
-                <p align=right>
-                    The 40% layout fits right into your hands.
-                    <br><br>
-                    Take the CLS anywhere and use it anytime to type anything.
-                <p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<!-- ### Ultra Compact Size -->
 
-<table>
-    <tbody>
-        <tr>
-            <td width="90%">
-                <h3>Mechanical Advantage</h3>
-                <p>
-                    <img src="assets/mechanical_switches.jpg">
-                </p>
-                <p>
-                    Hotswap mechanical switches give every keystroke a smooth and tactile feedback.
-                    <br><br>
-                    Swap in your favorites to make typing feel perfect to you.
-                </p>
-            </td>
-            <td width="10%"></td>
-        </tr>
-    </tbody>
-</table>
+<details>
+    <summary>
+        <h3>Ultra Compact Size</h3>
+    </summary>
+    <p>
+        <img src="assets/compact.jpg">
+    </p>
+    <p>
+        The 40% layout fits right into your hands.
+        <br><br>
+        Take the CLS anywhere and use it anytime to type anything.
+    <p>
+</details>
 
-<table>
-    <tbody>
-        <tr>
-            <td width="10%"></td>
-            <td width="90%">
-                <h3 align=right>Media and Mouse Control</h3>
-                <p align=right>
-                    <img src="assets/mouse_media_control.png">
-                </p>
-                <p align=right>
-                    Move the mouse, reduce screen brightness or pause a song right from the keybaord using the dedicated mouse and media keys.
-                    <br><br>
-                    Need to open a link? With hands still resting on the keyboard, the mouse keys can move the cursor over and click it.
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<!-- ### Hotswap Mechanical Switches-->
 
-<table>
-    <tbody>
-        <tr>
-            <td width="90%">
-                <h3>Web App Remapping</h3>
-                <p>
-                    <img src="assets/qmk_via_firmware.png">
-                </p>
-                <p>
-                    Fully compatible with VIA or VIAL. Create custom keymaps and macros right from your web browser.
-                    <br><br>
-                    Think WASD should be the Arrow keys? Make it so.
-                </p>
-            </td>
-            <td width="10%"></td>
-        </tr>
-    </tbody>
-</table>
+<details>
+    <summary>
+        <h3>Hotswap Mechanical Switches</h3>
+    </summary>
+    <p>
+        <img src="assets/mechanical_switches.jpg">
+    </p>
+    <p>
+        Hotswap mechanical switches give every keystroke a smooth and tactile feedback.
+        <br><br>
+        Swap in your favorites to make typing feel perfect to you.
+    </p>
+</details>
 
-<table>
-    <tbody>
-        <tr>
-            <td width="10%"></td>
-            <td width="90%">
-                <h3 align=right>Unified Indicator</h3>
-                <p align=right>
-                    <img src="assets/led_indicator.jpg">
-                </p>
-                <p align=right>
-                    A minimalist SK6812 LED indicator to display statuses.
-                    <br><br>
-                    Static white when CapsLock is toggled. Blink azure or pink when switching OS modes.
-                <p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<!-- ### VIA/ VIA Webapp Remapping -->
 
-<table>
-    <tbody>
-        <tr>
-            <td width="90%">
-                <h3 >Universal PCB</h3>
-                <p>
-                    <img src="assets/universal_pcb.jpg">
-                </p>
-                <p>
-                    The Kitsune PCB is the universal platform of the CLS.
-                    <br><br>
-                    Designed with standardised dimensions, mounting points and more for future development and compatibility.
-                <p>
-            </td>
-            <td width="10%"></td>
-        </tr>
-    </tbody>
-</table>
+<details>
+    <summary>
+        <h3>QMK VIA/ VIAL Firmware</h3>
+    </summary>
+    <p>
+        <img src="assets/qmk_via_firmware.png">
+    </p>
+    <p>
+        Fully customisable QMK firmware compatible with VIA or VIAL. Create custom keymaps and macros right from your web browser.
+        <br><br>
+        Think WASD should be the Arrow keys? Make it so yourself.
+    </p>
+</details>
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <h3 align="center">Open-source System</h3>
-                <p align="center">
-                    Fully-featured and documented for anyone to study, modify or build.
-                </p>
-                <br>
-                <p align="center">
-                    <img src="assets/cls_case_v0.3.jpg">
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<!-- ### Media and Mouse Control -->
+
+<details>
+    <summary>
+        <h3>Media and Mouse Control</h3>
+    </summary>
+    <p>
+        <img src="assets/mouse_media_control.png">
+    </p>
+    <p>
+        Move the mouse, reduce screen brightness or pause a song right from the keybaord using the dedicated mouse and media keys.
+        <br><br>
+        Need to open a link? With hands still resting on the keyboard, the mouse keys can move the cursor over and click it.
+    </p>
+</details>
+
+<!-- ### LED Status Indicator-->
+
+<details>
+    <summary>
+        <h3> LED Status Indicator</h3>
+    </summary>
+    <p>
+        <img src="assets/led_indicator.jpg">
+    </p>
+    <p>
+        A minimalist SK6812 LED indicator to display statuses.
+        <br><br>
+        Static white when CapsLock is toggled. Blink azure or pink when switching OS modes.
+    <p>
+</details>
+
+<!-- ### Universal Standard PCB -->
+
+<details>
+    <summary>
+        <h3>Universal Standard PCB</h3>
+    </summary>
+    <p>
+        <img src="assets/cls_kitsune_pcb_dimensions.png">
+    </p>
+    <p>
+        The Kitsune PCB is the universal platform of the CLS.
+        <br><br>
+        Designed with standardised dimensions, mounting points and more for future development and compatibility.
+    <p>
+</details>
+
+<!-- ### Open Source Files -->
+
+<details>
+    <summary>
+        <h3>Open Source Files</h3>
+    </summary>
+    <p>
+        <img src="assets/cls_case_v0.3.jpg">
+    </p>
+    <p>
+        Fully-featured and documented for anyone to build their own CLS.
+        <br><br>
+        Just purchase a complete PCB and you can 3D print the rest of the parts yourself!
+    </p>
+</details>
 
 ## Details
 
@@ -255,19 +174,19 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
             <tr>
                 <td><b>Firmware</b></td>
                 <td>
-                    <ul>
+                    <ol type="a">
                         <li>QMK VIA</li>
                         <li>QMK VIAL</li>
-                    </ul>
+                    </ol>
                 </td>
             </tr>
             <tr>
                 <td><b>Remapping Software</b></td>
                 <td>
-                    <ul>
+                    <ol type="a">
                         <li>VIA</li>
                         <li>VIAL</li>
-                    </ul>
+                    </ol>
                 </td>
             </tr>
             <tr>
@@ -293,6 +212,8 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
         <h3>Keymap</h3>
     </summary>
     <p>
+        Default keymap
+        <br><br>
         <img src="assets/keymap.png">
     </p>
 </details>
@@ -304,6 +225,8 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
         <h3>Layout</h3>
     </summary>
     <p>
+        Default and alternative layouts
+        <br><br>
         <img src="assets/cls_multilayout.png">
     </p>
 </details>
@@ -440,11 +363,11 @@ The CLS (Compact Layer System) is my attempt to redesign it for reconnection. El
 
 ## About
 
-Earlier in life, I learnt to [touch-type](https://www.uow.edu.au/student/support-services/academic-skills/online-resources/technology-and-software/typing/). Typing became a seamless act of turning the intentions of my mind directly into actions on a screen.
+When I learnt to [touch-type](https://www.uow.edu.au/student/support-services/academic-skills/online-resources/technology-and-software/typing/), typing became a seamless act of turning what I thought into what I typed.
 
 But it wasn't.
 
-Touch-typing made typing *Letters* seamless. But when it came to anything else, like typing Numbers and Symbols, or navigating with Arrows, it fell apart. This was because the standard keyboard pulled those keys away from my fingers. It forced my mind to stop, my eyes to search, and my hands to reach.
+Touch-typing made typing *Letters* seamless. But for typing Numbers and Symbols, or navigating with Arrows, it fell apart. This was because the regular keyboard pulled those keys away from my fingers. It forced my mind to stop, my eyes to search, and my hands to reach.
 
 So I set out to find a solution. The HHKB and JD40 keyboards caught my eye. I was drawn to their efficiency, but ultimately turned off by their complexity. Realising that this gap existed, I took it upon myself to develop my own. A keyboard to:
 
@@ -458,9 +381,9 @@ So I set out to find a solution. The HHKB and JD40 keyboards caught my eye. I wa
 
 3. **Type Familiarly**
 
-    Still feel familiar to type on, so I'd be able to use standard keyboards without much change.
+    Still feel familiar to type on, so I'd be able to use regular keyboards without much change.
 
-Over the past year, I've quietly worked on this personal project. After carefully designing, sourcing and assembling various prototypes, I am proud to say that the CLS is my solution, and more! And now I hope to share it with the community!
+Over the past year, I've quietly worked on this personal project. After carefully designing, sourcing and assembling various prototypes, I am proud to say that the CLS is my solution, and more! And now I hope to share it with you!
 
 <table>
     <thead>
@@ -583,9 +506,9 @@ Over the past year, I've quietly worked on this personal project. After carefull
 
 The CLS is an open-source project developed with genuine care and passion to make typing easier, or just a little more fun, for myself and now anyone. This will not change.
 
-But as a 19-year-old graduating student, it has been my dream to earn a simple living by designing works for people and with people. I do hope that this project can be a step closer to achieving my dream!
+But as a 19-year-old graduating student, it has been my dream to earn a simple living by designing works for and with people. I do hope that the CLS can be a step closer to achieving my dream!
 
-If you're interested, or inspired by this project, please consider supporting me!
+If you're interested, or inspired by the CLS, please consider supporting me!
 
 > [!IMPORTANT]
 > * **[Fill out the Initial Interest Check](https://docs.google.com/forms/d/e/1FAIpQLScfUuUE9FMXJtd4Nlhdzi1KQsgv8SQF635Pv1UQFJ2GWwssOQ/viewform?usp=dialog)**
